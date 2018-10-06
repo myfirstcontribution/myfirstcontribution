@@ -24,3 +24,4 @@ __Note__: If you're still having trouble, follow [this](https://github.com/myfir
 - [Black Wasp](https://github.com/bl4ckw4sp)
 - [Ruwan Madushanka](https://github.com/roony4)
 - [cyng24](https://github.com/cyng24)
+- [vaticori](https://github.com/vaticori)
