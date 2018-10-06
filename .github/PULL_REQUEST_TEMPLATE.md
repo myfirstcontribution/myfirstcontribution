@@ -1,8 +1,8 @@
-Make sure these points are followed before opening a pull request.
+It is required that all of the below requirements are met for this pull request to be merged.
 
-1. I have added my name and github url under the contributors sections
-2. I have followed the example while adding myself as contributor
-3. I have starred this repository.
+- [ ] I have starred the repository :star:
+- [ ] I have added my details to the contributor list.
+- [ ] I have followed the example while adding myself as contributor
 
 ---
 
