@@ -14,7 +14,7 @@ Your very first Open Source contribution.
 - [Jimmy Conway](https://github.com/jimmyconway)
 ```
 
-__Note__: If you're still having trouble, follow [this](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) simple guide step-by-step.
+__Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide step-by-step.
 
 # Contributors
 - [Black Wasp](https://github.com/bl4ckw4sp)
