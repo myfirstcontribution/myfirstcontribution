@@ -17,3 +17,4 @@ Your very first Open Source contribution.
 __Note__: If you're still having trouble, follow [this](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) simple guide step-by-step.
 
 # Contributors
+- [Black Wasp](https://github.com/bl4ckw4sp)
