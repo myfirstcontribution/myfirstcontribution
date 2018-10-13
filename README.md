@@ -18,10 +18,11 @@ Your very first Open Source contribution.
 - [Jimmy Conway](https://github.com/jimmyconway)
 ```
 
-__Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide step-by-step.
+__Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide ####step-by-step.
 
 # Contributors
 - [Black Wasp](https://github.com/bl4ckw4sp)
 - [Ruwan Madushanka](https://github.com/roony4)
 - [cyng24](https://github.com/cyng24)
 - [vaticori](https://github.com/vaticori)
+- [yesi-aracawa](https://github.com/yesi-aracawa)
