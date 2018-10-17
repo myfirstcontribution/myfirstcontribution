@@ -26,3 +26,4 @@ __Note__: If you're still having trouble, follow [this](https://github.com/myfir
 - [cyng24](https://github.com/cyng24)
 - [vaticori](https://github.com/vaticori)
 - [yesi-aracawa](https://github.com/yesi-aracawa)
+- [mariogmz](https://github.com/mariogmz)
