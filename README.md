@@ -27,3 +27,4 @@ __Note__: If you're still having trouble, follow [this](https://github.com/myfir
 - [vaticori](https://github.com/vaticori)
 - [yesi-aracawa](https://github.com/yesi-aracawa)
 - [mariogmz](https://github.com/mariogmz)
+- [Halix267](https://github.com/Halix267)
