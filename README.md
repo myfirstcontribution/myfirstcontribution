@@ -27,4 +27,4 @@ __Note__: If you're still having trouble, follow [this](https://github.com/myfir
 - [vaticori](https://github.com/vaticori)
 - [yesi-aracawa](https://github.com/yesi-aracawa)
 - [mariogmz](https://github.com/mariogmz)
-
+- [Vrinda Gupta](https://github.com/Vrindagupta6828)
