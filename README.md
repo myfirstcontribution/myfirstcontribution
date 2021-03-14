@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/87PsYk7.png" width=200 height=200 />
+  <img src="https://imgur.com/87PsYk7.png" width=100 height=100 />
 </p>
 
 ![img](https://imgur.com/NkrHWML.png)
@@ -21,6 +21,7 @@ Your very first Open Source contribution.
 __Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide <b>step-by-step</b>.
 
 # Contributors
+[Ratna Singh](https://github.com/ratnasingh442)
 - [Black Wasp](https://github.com/bl4ckw4sp)
 - [Ruwan Madushanka](https://github.com/roony4)
 - [cyng24](https://github.com/cyng24)
