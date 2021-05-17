@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://imgur.com/87PsYk7.png" width=200 height=200 />
+  <img src="https://imgur.com/87PsYk7.png" width=180 height=200/>
 </p>
 
-![img](https://imgur.com/NkrHWML.png)
-Your very first Open Source contribution.
-
+![img](https://image.slidesharecdn.com/presentation-140724145504-phpapp02/95/making-your-first-opensource-contribution-europython-1-638.jpg?cb=1406214540)
 
 ### How
 1. Click `fork` on top-right hand corner.
