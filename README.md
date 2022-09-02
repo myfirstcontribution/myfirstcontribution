@@ -5,7 +5,6 @@
 ![img](https://imgur.com/NkrHWML.png)
 Your very first Open Source contribution.
 
-
 ### How
 1. Click `fork` on top-right hand corner.
 2. Edit the `README.md`.
@@ -14,16 +13,19 @@ Your very first Open Source contribution.
 5. Done!
 
 #### Example
+
 ```text
 - [Jimmy Conway](https://github.com/jimmyconway)
 ```
 
-__Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide <b>step-by-step</b>.
+**Note**: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide <b>step-by-step</b>.
 
 # Contributors
+
 - [Black Wasp](https://github.com/bl4ckw4sp)
 - [Ruwan Madushanka](https://github.com/roony4)
 - [cyng24](https://github.com/cyng24)
 - [vaticori](https://github.com/vaticori)
 - [yesi-aracawa](https://github.com/yesi-aracawa)
 - [mariogmz](https://github.com/mariogmz)
+- [hashvector](https://github.com/hashvector)
