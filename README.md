@@ -21,6 +21,7 @@ Your very first Open Source contribution.
 __Note__: If you're still having trouble, follow [this](https://github.com/myfirstcontribution/myfirstcontribution/wiki/How-to-create-a-pull-request-on-Github) simple guide <b>step-by-step</b>.
 
 # Contributors
+- [Angie](https://github.com/angietechcafe)
 - [Black Wasp](https://github.com/bl4ckw4sp)
 - [Ruwan Madushanka](https://github.com/roony4)
 - [cyng24](https://github.com/cyng24)
