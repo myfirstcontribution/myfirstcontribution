@@ -3,7 +3,7 @@
 </p>
 
 ![img](https://imgur.com/NkrHWML.png)
-Your very first Open Source contribution.
+Your very first Open Source contribution. 👍
 
 
 ### How
